@@ -53,8 +53,10 @@ I'm a junior full-stack software developer who creates websites that help people
  <br/>
 
  
- ## <a href="https://kahoot-fs.vercel.app/">Kahoot</a>
+ ## <a href="https://kahoot-fs.vercel.app/">Kahoot Clone</a>
 **Tech : ReactJS, MUI, Socket**
+#### About: 
+This is a front-end app with customized backend written using the Express framework and NodeJS. Kahoot Clone is a quiz playing app aimed at making the interactions between students and teachers fun. It allows teachers to create quizess and host them in real time with their class where any number of students can participate. 
 
 #### Screenshots
 <div style="dispaly: flex: justify-content: center">
@@ -67,7 +69,7 @@ I'm a junior full-stack software developer who creates websites that help people
 
 
 
- ## <a href="https://tictactoe-frs.netlify.app/">TicTacToe</a>
+ ## <a href="https://tictactoe-frs.netlify.app/">Live Multiplayer TicTacToe</a>
 **Tech : ReactJS, Socket**
 
 #### Screenshots
