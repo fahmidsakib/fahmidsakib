@@ -39,9 +39,12 @@ I'm a junior full-stack software developer who creates websites that help people
 
 
 
-## <p align=center >Stats</p>
+## Stats
+
 <div align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=fahmidsakib&theme=nightowl&hide_border=false&include_all_commits=false&count_private=true" alt="fahmidsakib" />
+  ---
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fahmidsakib&theme=nightowl&hide_border=false" alt="fahmidsakib" />
+  ---
 <div align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahmidsakib&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="fahmidsakib" />
 </div>
