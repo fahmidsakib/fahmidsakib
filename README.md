@@ -38,6 +38,24 @@ I'm a junior full-stack software developer who creates websites that help people
 
 
 
+## Education
+###  McLaren College
+- **Program: Full Stack Online Course**
+- **Period: June 2022 - September 2022 (3 Months)**
+ 
+This was a full-time online course focused on web development using MERN stack.
+
+[More detailed curriculum](https://mclarencollege.in/course-module/)
+
+
+###  Brac University
+- **Program: Bachelor of Science in Computer Science & Engineering**
+- **Period:  May 2017 - September 2021**
+ 
+ 
+ ---
+
+
 
 ## Stats
 
