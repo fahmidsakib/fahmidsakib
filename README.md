@@ -66,6 +66,28 @@ I'm a junior full-stack software developer who creates websites that help people
 
 
 
+ ## <a href="https://tictactoe-frs.netlify.app/">TicTacToe</a>
+**Tech : ReactJS, Socket**
+
+![image](https://user-images.githubusercontent.com/70453428/193208253-f66eff3f-0a9a-4f19-82d6-7106b74e7481.png) home
+![image](https://user-images.githubusercontent.com/70453428/193208445-fca5a5b7-dcf9-459e-acfe-82debea8f02e.png) waiting
+![image](https://user-images.githubusercontent.com/70453428/193208551-61738d81-5039-49a8-a58d-477ae39d4988.png) playing
+![image](https://user-images.githubusercontent.com/70453428/193208749-2a2ac0f7-8ee9-4621-87c5-e44174f147ae.png) winning
+
+
+
+
+
+#### Screenshots
+<div style="dispaly: flex: justify-content: center">
+<img src = "https://user-images.githubusercontent.com/70453428/193206213-28edc846-8e9d-4374-aa1d-c444583dc592.png" alt = "Login Page" width="48%"/> 
+<img src = "https://user-images.githubusercontent.com/70453428/193206312-b999d935-49ec-4ef8-86e7-f3813218dbdb.png" alt = "Home" width= "48%"/> 
+<img src = "https://user-images.githubusercontent.com/70453428/193206650-c63d79e3-4232-4412-8dfa-553c3827d133.png" alt = "Edit Quiz" width= "48%"/>
+<img src = "https://user-images.githubusercontent.com/70453428/193207082-ba695725-144e-4dd9-af0a-54823242356b.png" alt = "Playing" width= "48%"/>
+ </div>
+ <br/>
+
+
 ## Education
 ###  McLaren College
 - **Program: Full Stack Online Course**
@@ -83,6 +105,15 @@ This was a full-time online course focused on web development using MERN stack.
  
  ---
 
+### My Stats
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fahmidsakib&theme=nord&hide=TeX&layout=compact) 
+
+![Code Wars](https://www.codewars.com/users/fahmidsakib/badges/large)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=fahmiidsakib&theme=nord)  
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=fahmidsakib.fahmidsakib)
 
 
 ## Stats
