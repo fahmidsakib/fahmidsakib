@@ -106,11 +106,6 @@ This was a full-time online course focused on web development using MERN stack.
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=fahmidsakib.fahmidsakib)
 
+![Github Stats](https://github-readme-stats.vercel.app/api?username=fahmidsakib&theme=nightowl&hide_border=false&include_all_commits=false&count_private=true)
 
-## Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=fahmidsakib&theme=nightowl&hide_border=false&include_all_commits=false&count_private=true" alt="fahmidsakib" />
-
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=fahmidsakib&theme=nightowl&hide_border=false" alt="fahmidsakib" />
-
-<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahmidsakib&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="fahmidsakib" />
