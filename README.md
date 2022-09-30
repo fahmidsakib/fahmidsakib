@@ -45,10 +45,7 @@ I'm a junior full-stack software developer who creates websites that help people
 
 #### Screenshots
 <div style="dispaly: flex: justify-content: center">
-![image](https://user-images.githubusercontent.com/70453428/193204741-f38133f7-b41b-47b3-8d82-fce4e3f308e5.png)
-![image](https://user-images.githubusercontent.com/70453428/193204854-dbc7ec3b-39dc-440f-b30a-7bb4c2f9340b.png)
-![image](https://user-images.githubusercontent.com/70453428/193204895-3467ba63-04ca-4ecf-971f-5e01dc602af8.png)
-![image](https://user-images.githubusercontent.com/70453428/193204951-6fe10afc-13ab-49fa-bf30-584a90bfa11a.png)
+
  </div>
  <br/>
 
