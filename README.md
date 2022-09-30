@@ -45,7 +45,9 @@ I'm a junior full-stack software developer who creates websites that help people
 
 #### Screenshots
 <div style="dispaly: flex: justify-content: center">
-
+<img src = "https://user-images.githubusercontent.com/70453428/193205274-ec4a7797-2cfc-4367-859a-107cc1f1a60d.png" alt = "Profile Page" width="48%"/> 
+<img src = "https://user-images.githubusercontent.com/70453428/193205376-2c82520f-027e-4542-a548-0def0cb35b12.png" alt = "Recent Tracks" width= "48%"/> 
+<img src = "https://user-images.githubusercontent.com/70453428/193205560-60348396-fb08-45f9-8ef3-7eccbbb43a0e.png" alt = "Top Artist" width= "48%"/>
  </div>
  <br/>
 
