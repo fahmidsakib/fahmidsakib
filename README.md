@@ -47,10 +47,11 @@ I'm a junior full-stack software developer who creates websites that help people
 <div style="dispaly: flex: justify-content: center">
 <img src = "https://user-images.githubusercontent.com/70453428/193205274-ec4a7797-2cfc-4367-859a-107cc1f1a60d.png" alt = "Profile Page" width="48%"/> 
 <img src = "https://user-images.githubusercontent.com/70453428/193205376-2c82520f-027e-4542-a548-0def0cb35b12.png" alt = "Recent Tracks" width= "48%"/> 
+<img src = "https://user-images.githubusercontent.com/70453428/193210255-f3874ffc-e862-4eb4-a6da-474f1dffd4b3.png" alt = "Top Tracks" width= "48%"/>
 <img src = "https://user-images.githubusercontent.com/70453428/193205560-60348396-fb08-45f9-8ef3-7eccbbb43a0e.png" alt = "Top Artist" width= "48%"/>
  </div>
  <br/>
- 
+
  
  ## <a href="https://kahoot-fs.vercel.app/">Kahoot</a>
 **Tech : ReactJS, MUI, Socket**
@@ -98,14 +99,14 @@ This was a full-time online course focused on web development using MERN stack.
 
 ## My Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fahmidsakib&theme=nord&hide=TeX&layout=compact) 
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=fahmidsakib.fahmidsakib)
 
 ![Code Wars](https://www.codewars.com/users/fahmidsakib/badges/large)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fahmidsakib&theme=nord&hide=TeX&layout=compact) 
+
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=fahmidsakib&theme=nord&hide_border=false)  
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=fahmidsakib.fahmidsakib)
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=fahmidsakib&theme=nightowl&hide_border=false&include_all_commits=false&count_private=true)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=fahmidsakib&theme=nord&hide_border=false&include_all_commits=false&count_private=true)
 
 
