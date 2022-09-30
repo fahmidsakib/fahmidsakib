@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I am Fahmid 👋
 
 ---
 
@@ -35,6 +35,22 @@ I'm a junior full-stack software developer who creates websites that help people
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+
+
+### <p align=center >Personal Projects</p>
+<br/>
+
+## <a href="https://spotify-profile-fahmid.vercel.app/">Spotify Profile</a>
+**Tech : ReactJS, Spotify API, CSS**
+
+#### Screenshots
+<div style="dispaly: flex: justify-content: center">
+![image](https://user-images.githubusercontent.com/70453428/193204741-f38133f7-b41b-47b3-8d82-fce4e3f308e5.png)
+![image](https://user-images.githubusercontent.com/70453428/193204854-dbc7ec3b-39dc-440f-b30a-7bb4c2f9340b.png)
+![image](https://user-images.githubusercontent.com/70453428/193204895-3467ba63-04ca-4ecf-971f-5e01dc602af8.png)
+![image](https://user-images.githubusercontent.com/70453428/193204951-6fe10afc-13ab-49fa-bf30-584a90bfa11a.png)
+ </div>
+ <br/>
 
 
 
