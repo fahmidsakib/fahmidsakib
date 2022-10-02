@@ -42,6 +42,8 @@ I'm a junior full-stack software developer who creates websites that help people
 
 ## <a href="https://spotify-profile-fahmid.vercel.app/">Spotify Profile</a>
 **Tech : ReactJS, Spotify API, CSS**
+#### About:
+This website is created with help of Spotify API. After login, the user can see their profile summary on the home page. There are also individual pages for Top Artist, Top Tracks, Recent Playlist, etc.
 
 #### Screenshots
 <div style="dispaly: flex: justify-content: center">
@@ -71,6 +73,8 @@ This is a front-end app with customized backend written using the Express framew
 
  ## <a href="https://tictactoe-frs.netlify.app/">Live Multiplayer TicTacToe</a>
 **Tech : ReactJS, Socket**
+#### About:
+This is a multiplayer TicTacToe Game that you can play with anyone in real-time.
 
 #### Screenshots
 <div style="dispaly: flex: justify-content: center">
