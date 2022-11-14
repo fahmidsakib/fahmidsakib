@@ -2,7 +2,7 @@
 
 ---
 
-I'm a junior full-stack software developer who creates websites that help people meet their business goals. I'm known for my great time management and enthusiasm for my work. I am a lifelong learner and other than programming, I love to read manga & watching anime.
+I'm a junior full-stack software developer who creates websites that help people meet their business goals. I'm known for my great time management and enthusiasm for my work. I am a lifelong learner and other than programming, I love to read manga & watch anime.
 
 <h2>Connect With Me</h2>
 
