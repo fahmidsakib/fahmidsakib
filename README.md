@@ -2,7 +2,7 @@
 
 ---
 
-I'm a junior full-stack software developer who creates websites that help people meet their business goals. I'm known for my great time management and enthusiasm for my work. I am a lifelong learner and other than programming, I love to read manga & watch anime.
+I am a Lecturer at the department of Computer Science & Engineering at Metropolitan University, dedicated to helping students learn the essential skills to grow in a supportive environment. I aim to prepare them to go out into the world of technology with success. I'm also a junior full-stack software developer who creates websites that help people meet their business goals. I'm known for my great time management and enthusiasm for my work. I am a lifelong learner and other than programming, I love to read manga & watch anime.
 
 <h2>Connect With Me</h2>
 
