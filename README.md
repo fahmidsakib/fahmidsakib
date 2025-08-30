@@ -2,7 +2,7 @@
 
 ---
 
-I am a Lecturer at the department of Computer Science & Engineering at Metropolitan University, dedicated to helping students learn the essential skills to grow in a supportive environment. I aim to prepare them to go out into the world of technology with success. I'm also a junior full-stack software developer who creates websites that help people meet their business goals. I'm known for my great time management and enthusiasm for my work. I am a lifelong learner and other than programming, I love to read manga & watch anime.
+I am a Senior Lecturer in the Department of Computer Science & Engineering at Metropolitan University, committed to guiding students in mastering the essential skills needed to succeed in the ever-evolving field of technology. As a junior full-stack software developer, I build websites that help businesses achieve their goals. I am recognized for my strong time management, dedication, and enthusiasm for both teaching and development. I am also interested in pursuing research to contribute to advancements in technology. A lifelong learner, I enjoy exploring programming innovations and indulging in manga and anime.
 
 <h2>Connect With Me</h2>
 
